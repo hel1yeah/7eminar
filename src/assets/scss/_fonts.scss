@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'RobotoLight';
+  src: local('RobotoLight'), local('Roboto-Light'),
+    url('../fonts/RobotoLight/Robotolight.woff2') format('woff2'),
+    url('../fonts/RobotoLight/Robotolight.woff') format('woff'),
+    url('../fonts/RobotoLight/Robotolight.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'RobotoMedium';
+  src: local('Roboto Medium'), local('Roboto-Medium'),
+    url('../fonts/RobotoMedium/Robotomedium.woff2') format('woff2'),
+    url('../fonts/RobotoMedium/Robotomedium.woff') format('woff'),
+    url('../fonts/RobotoMedium/Robotomedium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'RobotoBold';
+  src: local('RobotoBold'), local('Roboto-Bold'),
+    url('../fonts/RobotoBold/Robotobold.woff2') format('woff2'),
+    url('../fonts/RobotoBold/Robotobold.woff') format('woff'),
+    url('../fonts/RobotoBold/Robotobold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
