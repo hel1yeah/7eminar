@@ -40,9 +40,7 @@
         </div>
         <div class="sidebar__theme">
           <div class="accordion">
-            <div class="accordion__trigger" @click="accordionTrigger">
-              Відео
-            </div>
+            <div class="accordion__trigger" @click="accordionTrigger">Темы</div>
             <div class="accordion__content accordion__content--theme">
               <span class="accordion__text"> Всі теми (25) </span>
               <span class="accordion__text"> Акцизний подарок (4) </span>
